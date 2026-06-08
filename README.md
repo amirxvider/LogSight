@@ -176,9 +176,9 @@ The log parsing runs in a **Web Worker** — a background thread separate from t
 
 If LogSight saves you time, consider supporting development:
 
-- ☕ [Buy Me a Coffee](https://buymeacoffee.com/yourusername)
+- ☕ [Buy Me a Coffee](https://amirxvider.github.io/donate/)
 - ⭐ Star this repo on GitHub
-- 🐛 [Report an Issue](https://github.com/yourusername/logsight/issues)
+- 🐛 [Report an Issue](https://github.com/amirxvider/logsight/issues)
 - 🔀 Submit a Pull Request
 
 ---
