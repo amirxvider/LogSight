@@ -8,7 +8,7 @@
 [![GitHub Pages](https://img.shields.io/badge/Hosted%20on-GitHub%20Pages-blue?logo=github)](https://pages.github.com)
 [![Privacy First](https://img.shields.io/badge/Privacy-100%25%20Client--Side-green)](https://github.com)
 
-**[🚀 Live Demo](https://yourusername.github.io/logsight)** | **[📖 Documentation](#usage)** | **[☕ Buy Me a Coffee](https://buymeacoffee.com/yourusername)**
+**[🚀 Live Demo](https://amirxvider.github.io/logsight)** | **[📖 Documentation](#usage)** | **[☕ Buy Me a Coffee](https://amirxvider.github.io/donate/)**
 
 </div>
 
